@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/ming-yen-chung.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "a01e84de2e90e587",
+    "identity": "sha256$eb1e9e1ec97beff34962fdec2889e3da028ae58d96ff8e0baee91c9a9f728a03"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/ming-yen-chung.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/ming-yen-chung.html",
+      "narrative": "Presented \"“From Now On, I Want Every Single Message”\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "Ming-Yen Chung: Presented \"“From Now On, I Want Every Single Message”\" on Thursday 19 November 2026."
+}

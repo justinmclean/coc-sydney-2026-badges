@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/uros-bojanic.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "42bcc23e3bc5065a",
+    "identity": "sha256$310d17d14ea82aed99da0779d3d4b87e3a5796a6d0dd98d721ba335d0ea9cca9"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/uros-bojanic.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/uros-bojanic.html",
+      "narrative": "Presented \"It’s Just String Comparison... How Hard Could It Be? Collations in Apache Spark\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "Uroš Bojanić: Presented \"It’s Just String Comparison... How Hard Could It Be? Collations in Apache Spark\" on Thursday 19 November 2026."
+}

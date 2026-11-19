@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/sheriff-manzoor-f.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "b776c1ad045cb796",
+    "identity": "sha256$f5f887ba1f195c51f060431236a6bbf25f3f00729e74dc4875742fe2a60e769e"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/sheriff-manzoor-f.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/sheriff-manzoor-f.html",
+      "narrative": "Presented \"From Contribution to Innovation: Building an Open Source Program That Scales\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Sheriff Manzoor F: Presented \"From Contribution to Innovation: Building an Open Source Program That Scales\" on Wednesday 18 November 2026."
+}

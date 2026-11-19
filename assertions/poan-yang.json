@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/poan-yang.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "734df4804cac80e9",
+    "identity": "sha256$4fd82245cc7cd3c96054ae57db9d3a557963284211a768fc84ef95853c72b8bd"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/poan-yang.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/poan-yang.html",
+      "narrative": "Presented \"How Apache Kafka handles CPU/Memory in New Consumer Protocol\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "PoAn Yang: Presented \"How Apache Kafka handles CPU/Memory in New Consumer Protocol\" on Thursday 19 November 2026."
+}

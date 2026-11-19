@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/patrick-catanzariti.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "ebc370acb23a450a",
+    "identity": "sha256$3039081f45b7b95e0f09ed2a0c94673952fc91f30ce3867c377a06692945adba"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/patrick-catanzariti.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/patrick-catanzariti.html",
+      "narrative": "Presented \"Our Augmented Future Needs To Be Open\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Patrick Catanzariti: Presented \"Our Augmented Future Needs To Be Open\" on Wednesday 18 November 2026."
+}

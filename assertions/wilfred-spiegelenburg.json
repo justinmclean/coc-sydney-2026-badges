@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/wilfred-spiegelenburg.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "5fae200655531a4f",
+    "identity": "sha256$83b9a34c3cd021f774ac961439345882505fd6631c8279f7d13e454a6ab99cee"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/wilfred-spiegelenburg.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/wilfred-spiegelenburg.html",
+      "narrative": "Presented \"Workload and topology aware scheduling with Apache YuniKorn\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Wilfred Spiegelenburg: Presented \"Workload and topology aware scheduling with Apache YuniKorn\" on Wednesday 18 November 2026."
+}

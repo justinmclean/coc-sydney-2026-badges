@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/issuer.json",
+  "name": "Community Over Code Sydney 2026 organisers",
+  "url": "https://justinmclean.github.io/coc-sydney-2026-badges/",
+  "description": "The organisers of Community Over Code Sydney 2026, held with ChurConf at the Collider, Sydney, 18 to 19 November 2026."
+}

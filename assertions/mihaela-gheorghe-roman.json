@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/mihaela-gheorghe-roman.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "83a1c4ba2eabf3b0",
+    "identity": "sha256$ab7fb99ff6dd48ec6e35d1bb95a0e8abb81174e609445bcad40f30b5740adb82"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/mihaela-gheorghe-roman.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/mihaela-gheorghe-roman.html",
+      "narrative": "Presented \"Spring AI Agents: From Demo to Production\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Mihaela Gheorghe-Roman: Presented \"Spring AI Agents: From Demo to Production\" on Wednesday 18 November 2026."
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/peter-szucs.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "5622e7a103204d70",
+    "identity": "sha256$c46fc58478845144f67abd1442f9d557a4e1ceca047861b9f72e42a304c9bbe2"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/peter-szucs.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/peter-szucs.html",
+      "narrative": "Presented \"YARN MCP: AI Agent Integration\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "Peter Szucs: Presented \"YARN MCP: AI Agent Integration\" on Thursday 19 November 2026."
+}

@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/daniel-sagenschneider.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "a98f4702a0a687a4",
+    "identity": "sha256$bbb527529002885d517c98fe3c61211023192d1add03e36a24395e79a631a33e"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/daniel-sagenschneider.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/daniel-sagenschneider.html",
+      "narrative": "Presented \"Code Your AI Agent Can Actually Read: Explicit Function Orchestration in Spring Boot\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "Daniel Sagenschneider: Presented \"Code Your AI Agent Can Actually Read: Explicit Function Orchestration in Spring Boot\" on Thursday 19 November 2026."
+}

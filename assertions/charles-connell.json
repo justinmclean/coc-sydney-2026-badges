@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/charles-connell.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "aa12ab403e5ef9d7",
+    "identity": "sha256$5aca92278bd98ed1205a17b79543c0e16126b63148f5da67f4e70e966619d096"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/charles-connell.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/charles-connell.html",
+      "narrative": "Presented \"Lessons from HBase in high-performance Java\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Charles Connell: Presented \"Lessons from HBase in high-performance Java\" on Wednesday 18 November 2026."
+}

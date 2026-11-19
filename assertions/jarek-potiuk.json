@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/jarek-potiuk.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "47be486b9b687852",
+    "identity": "sha256$25cd8e57d65a98c36182cd61dc3cc6a0e71801c6c7ef07ce9436a7409bbbdb19"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/jarek-potiuk.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/jarek-potiuk.html",
+      "narrative": "Presented \"Intention Is (Almost) All You Need, Intuition Comes Next: Building Apache Magpie with Agent Skills\" on Wednesday 18 November 2026."
+    }
+  ],
+  "narrative": "Jarek Potiuk: Presented \"Intention Is (Almost) All You Need, Intuition Comes Next: Building Apache Magpie with Agent Skills\" on Wednesday 18 November 2026."
+}

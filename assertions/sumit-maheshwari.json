@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/sumit-maheshwari.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "ba9cbbb2d652e0e9",
+    "identity": "sha256$15e49b947c1a7077ac1ef3ebe9bda018069626e3d93b526b33dd2c0719ab78eb"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-speaker.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/sumit-maheshwari.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/speakers/sumit-maheshwari.html",
+      "narrative": "Presented \"Shipping Airflow DAGs: From Folders and Fat Bundles to Build-Graph-Aware Artifacts\" on Thursday 19 November 2026."
+    }
+  ],
+  "narrative": "Sumit Maheshwari: Presented \"Shipping Airflow DAGs: From Folders and Fat Bundles to Build-Graph-Aware Artifacts\" on Thursday 19 November 2026."
+}

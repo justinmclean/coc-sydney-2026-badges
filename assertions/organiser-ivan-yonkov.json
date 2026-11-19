@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/organiser-ivan-yonkov.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "08ec47dee5b2e89b",
+    "identity": "sha256$8614c4948de9af7b934962f1292ed19488fab359867b5a63ab905af6778e3b82"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-organiser.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/organiser-ivan-yonkov.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/organisers/ivan-yonkov.html",
+      "narrative": "Organised Community Over Code Sydney 2026."
+    }
+  ],
+  "narrative": "Ivan Yonkov: Organised Community Over Code Sydney 2026."
+}

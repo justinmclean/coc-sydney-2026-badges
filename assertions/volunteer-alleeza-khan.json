@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/volunteer-alleeza-khan.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "5334af7ff4f342b9",
+    "identity": "sha256$29a4d294a38ab02472de3d6fc12ff9b9585f86aef6bd231b58ee4b3055cd983d"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-volunteer.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/volunteer-alleeza-khan.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/volunteers/alleeza-khan.html",
+      "narrative": "Volunteered at Community Over Code Sydney 2026."
+    }
+  ],
+  "narrative": "Alleeza Khan: Volunteered at Community Over Code Sydney 2026."
+}

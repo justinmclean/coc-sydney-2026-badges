@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/volunteer-andrew-yan.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "0b258a61ece0cbdb",
+    "identity": "sha256$d7dc03a4716151f99192e3a3b5f9a88c8591653b688e5d7f31005301187f67ae"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-volunteer.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/volunteer-andrew-yan.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/volunteers/andrew-yan.html",
+      "narrative": "Volunteered at Community Over Code Sydney 2026."
+    }
+  ],
+  "narrative": "Andrew Yan: Volunteered at Community Over Code Sydney 2026."
+}

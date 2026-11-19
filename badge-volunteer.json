@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-volunteer.json",
+  "name": "Volunteer, Community Over Code Sydney 2026",
+  "description": "Awarded to the people who volunteered at Community Over Code Sydney 2026, 18 to 19 November 2026, Sydney, Australia.",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/volunteer.png",
+  "criteria": {
+    "id": "https://justinmclean.github.io/coc-sydney-2026-badges/",
+    "narrative": "Volunteered at Community Over Code Sydney 2026."
+  },
+  "issuer": "https://justinmclean.github.io/coc-sydney-2026-badges/issuer.json",
+  "tags": [
+    "Community Over Code",
+    "ChurConf",
+    "Apache Software Foundation",
+    "open source",
+    "volunteer"
+  ]
+}

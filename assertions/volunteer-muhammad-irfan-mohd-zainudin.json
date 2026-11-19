@@ -1,0 +1,24 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/coc-sydney-2026-badges/assertions/volunteer-muhammad-irfan-mohd-zainudin.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "401109b6bc5755b3",
+    "identity": "sha256$4667775f14f448b44898848e519a94b872a4f2c9ea2720c485afba299c494eb6"
+  },
+  "badge": "https://justinmclean.github.io/coc-sydney-2026-badges/badge-volunteer.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-19T00:00:00+11:00",
+  "image": "https://justinmclean.github.io/coc-sydney-2026-badges/images/volunteer-muhammad-irfan-mohd-zainudin.png",
+  "evidence": [
+    {
+      "id": "https://justinmclean.github.io/coc-sydney-2026-badges/volunteers/muhammad-irfan-mohd-zainudin.html",
+      "narrative": "Volunteered at Community Over Code Sydney 2026."
+    }
+  ],
+  "narrative": "Muhammad Irfan Mohd Zainudin: Volunteered at Community Over Code Sydney 2026."
+}
